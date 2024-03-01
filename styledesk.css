@@ -1,0 +1,158 @@
+/* Your styles here */
+
+
+/*fromattazione generale */
+
+#general {
+    width: 1500px;
+    text-align: center;
+    line-height: 1.5;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #25a2c3;
+    margin: 15px 0;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    color: #393d41;
+    
+}
+p {
+    margin: 20px 0;
+}
+/* HEADER */
+
+.logo-pic {
+    background-color: black;
+    text-align: left;
+    
+}
+.background {
+    width: 150px;
+    margin: 20px 50px ;
+    
+}
+.header {
+    background-image: url(Esercizio/images/banner.jpg);
+    background-position: center;
+    padding: 10px 370px;
+    
+}
+
+
+.title {
+    font-size: 2em;
+    margin: 50px 0;
+    
+}
+
+button {
+    background-color: #f04c2f ;
+    margin-bottom: 70px;
+    border: none;
+    border-radius: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: white;
+    height: 50px;
+    width: 150px;
+
+}
+
+  /* MAIN PART */
+  .main {
+    padding: 10px 70px;
+    margin-top: 25px;
+ display: inline-block;
+ 
+  }
+  #position {
+    display: inline-block;
+    text-align: left;
+    padding-right: 150px;
+  }
+.img-position {
+    display: inline-block;
+}
+   
+
+
+  #central-pic {
+    border-radius: 50%;
+    padding:0 50px ;
+ 
+
+  }
+  
+#break {
+    margin-top: 70px;
+    background-color: #f04c2f;
+    padding-top: 15px;
+    height: 280px;
+    color: white;
+    
+}
+.break-title {
+    color: white;
+    font-size: 2em;
+}
+.break-line {
+    font-style: italic;
+
+}
+.name {
+    font-size: 1.2em;
+    margin-bottom: 0px;
+}
+.break-end {
+    font-size: 0.8em;
+    margin-top: 0;
+}
+
+/*ASIDE */
+
+.box {
+    text-align: center;
+    width: 400px;
+    margin: 25px 24px;
+    border: 1px solid #dee1e3;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+.box-inside {
+    padding: 0 20px;
+}
+.pc-img {
+    width: 400px;
+    height: 267px;
+
+}
+
+/*footer*/
+
+.contacts {
+    background-color: #25a2c3;
+    color: white;
+    display: block;
+}
+.last-title {
+    color: white;
+    font-size: 2em;
+    padding-top: 15px;
+}
+.contacts-sub {
+    margin: 7px;
+}
+a:visited {
+color: white;
+}
+.copyright {
+    border-top: 1px solid white;
+    margin: 0px 50px 0px 50px;
+    padding: 20px 0 ;
+}
